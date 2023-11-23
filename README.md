@@ -1,0 +1,1 @@
+# curse_of_myrra_assets
