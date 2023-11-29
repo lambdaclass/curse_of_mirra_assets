@@ -1,10 +1,10 @@
-# Curse of Myrra - Open Game Assets repository
+# Curse of Myrra - Assets repository
 
 <img src="Curse_of_Myrra_logo.png" alt="Curse of Myrra logo">
 
 ## Introduction
 
-Welcome to the LambdaClass Open Game Assets Repository! We're thrilled to share with you a collection of high-quality 3D models, animations and concept art that we've created for our game world and lore. Our goal is to foster creativity, collaboration, and innovation within the gaming community. Feel free to use, modify, and build upon these assets for your own projects in accordance with our Creative Commons Attirbution 4.0 International License.
+Welcome to the LambdaClass Assets Repository! We're thrilled to share with you a collection of high-quality 3D models, animations and concept art that we've created for our game world and lore. Our goal is to foster creativity, collaboration, and innovation within the gaming community. Feel free to use, modify, and build upon these assets for your own projects in accordance with our Creative Commons Attirbution 4.0 International License.
 
 ## Table of Contents
 
