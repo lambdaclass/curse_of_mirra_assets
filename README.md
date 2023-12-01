@@ -42,7 +42,12 @@ We welcome contributions to this repository! If you have additional assets, impr
 Explore the different asset categories available in this repository:
 
 - **3D Models**
-  - Characters, each with their
+  - Characters
+    - Muflus ✅
+    - Uma ⏳
+    - D'Agna ⏳
+    - H4ck ⏳
+  Each with their
   - Animations:
     - Skill 1
     - Skill 2
@@ -53,6 +58,8 @@ Explore the different asset categories available in this repository:
 - **Concept Art**
   - Character Designs
   - Environment Concepts
+- **Music**
+- **Lore**
 
 ## Getting Started
 
