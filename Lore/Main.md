@@ -1,0 +1,11 @@
+# Curse of Myrra Universe
+
+The year is 3047. The inhabitants of the wastelands wake up to the struggle of a new hot, sunny day, starting their march to the endless spread of coal mines that make their world. They know no rest is allowed, not unless they want to be punished by the Titan; no one would like to suffer the wrath of their minotaur lord. Nothing special about this day. Not until the sun gets slowly covered by what appears to be a dark shadow. Years have passed since the last total eclipse, and most of the population has never lived through anything similar to this.
+
+The same shadow haunts the neighboring world of Neotokio, but the neon lights and flashes of the live, cyberpunk city-planet make it unnoticeable. People continue their fast-paced egocentric routines, only paying attention to the omnipresent screens controlled by their AI-powered government that dictate the pressing news and rules their society goes by. Suddenly, everything goes dark; a massive power shutdown turns off the vital energy of their home. And now people pay attention. Attention to the dark figure that arises over the skyline of the city. More extensive than what their eyes can see in a simple glimpse. So dark that it would stand out even on the darkest of nights. With a look so deep, so penetrating, that no one could look away. 
+
+That day, ***Myrra*** appeared in the four planets that compose the planetary system of ***Tal-hajja.*** Deep within the culture of these planets existed prophecies that this day would come. But the daily struggle for survival and the passage of time made the inhabitants of this system ignore and then forget about these presages. 
+
+And now, here we are. The time of sacrifices for Myrra has come. One gladiator per planet must fight the other champions in a brutal, no-holds-barred battle for survival. Over and over again. Only when the dark deity considers enough lives are taken will the inhabitants of each planet be safe again. Or so they believe.
+
+Will this day ever come? Will the ruling classes of each country use their titans and do something to defend what was previously theirs?  Will the populations join and battle as one against the ruling dark lord? There is no way to be sure but to play **Curse of Myrra*.***
