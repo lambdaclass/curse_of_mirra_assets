@@ -47,8 +47,8 @@ Explore the different asset categories available in this repository:
     - Uma ⏳
     - D'Agna ⏳
     - H4ck ⏳
-  Each with their
-  - Animations:
+  
+Each character has the following **Animations**:
     - Skill 1
     - Skill 2
     - Idle
