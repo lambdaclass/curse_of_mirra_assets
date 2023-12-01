@@ -48,13 +48,13 @@ Explore the different asset categories available in this repository:
     - D'Agna ⏳
     - H4ck ⏳
   
-Each character has the following **Animations**:
-    - Skill 1
-    - Skill 2
-    - Idle
-    - Walk
-    - Defeat
-    - Victory
+- Each character has the following **Animations**:
+  - Skill 1
+  - Skill 2
+  - Idle
+  - Walk
+  - Defeat
+  - Victory
 - **Concept Art**
   - Character Designs
   - Environment Concepts
