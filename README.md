@@ -67,10 +67,10 @@ We would like to express our gratitude to the talented artists and contributors 
 If you have any questions, feedback, or just want to share your creations using our assets, feel free to reach out to us:
 
 - **Email:** gamedev@lambdaclass.com
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/curseofmyrra)
-- **Discord** [join](https://discord.gg/hxDRsbCpzC)
-- **Telegram** [join](https://t.me/curseofmyrra)
-- **Reddit** [r/curseofmyrra](https://www.reddit.com/r/curseofmyrra/)
+- **Twitter:** [@CurseOfMyrra](https://twitter.com/curseofmyrra)
+- **Reddit:** [r/curseofmyrra](https://www.reddit.com/r/curseofmyrra/)
+- **Discord:** [join link](https://discord.gg/hxDRsbCpzC)
+- **Telegram:** [t.me/curseofmyrra](https://t.me/curseofmyrra)
 
 Happy creating, and we can't wait to see the amazing worlds you build with these assets!
 
