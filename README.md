@@ -1,10 +1,10 @@
-# Curse of Myrra - Assets repository
+# Curse of Mirra - Assets repository
 
 <img src="Curse_of_Myrra_logo.png" alt="Curse of Myrra logo">
 
 ## Introduction
 
-Welcome to the LambdaClass Assets Repository! We're thrilled to share with you a collection of high-quality 3D models, animations and concept art that we've created for our game world and lore. Our goal is to foster creativity, collaboration, and innovation within the gaming community. Feel free to use, modify, and build upon these assets for your own projects in accordance with our Creative Commons Attirbution 4.0 International License.
+Welcome to the LambdaClass Assets Repository! We're thrilled to share with you a collection of high-quality 3D models, animations and concept art that we've created for our game world and lore. Our goal is to foster creativity, collaboration, and innovation within the gaming community. Feel free to use, modify, and build upon these assets for your own projects in accordance with our Creative Commons Attribution 4.0 International License.
 
 ## Table of Contents
 
@@ -20,11 +20,11 @@ Welcome to the LambdaClass Assets Repository! We're thrilled to share with you a
 
 This repository contains a diverse range of 3D models and concept art that represent the rich and expansive world we've crafted for our games. Whether you're a game developer, artist, or hobbyist, we invite you to explore and integrate these assets into your own projects.
 
-These assets were created for our game [Curse of Myrra](https://github.com/lambdaclass/curse_of_myrra), an open source, mobile battle royale.
+These assets were created for our game [Curse of Mirra](https://github.com/lambdaclass/curse_of_mirra), an open source, mobile battle royale.
 
 ## License
 
-All assets in this repository are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). This is a summary; for the full licensing details, please refer to the [LICENSE](https://github.com/lambdaclass/curse_of_myrra/blob/main/LICENSE) file within this repository.
+All assets in this repository are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). This is a summary; for the full licensing details, please refer to the [LICENSE](https://github.com/lambdaclass/curse_of_mirra/blob/main/LICENSE) file within this repository.
 
 - **Share:** Copy and redistribute the material in any medium or format.
 - **Adapt:** Remix, transform, and build upon the material for any purpose, even commercially.
@@ -74,10 +74,10 @@ We would like to express our gratitude to the talented artists and contributors 
 If you have any questions, feedback, or just want to share your creations using our assets, feel free to reach out to us:
 
 - **Email:** gamedev@lambdaclass.com
-- **Twitter:** [@CurseOfMyrra](https://twitter.com/curseofmyrra)
-- **Reddit:** [r/curseofmyrra](https://www.reddit.com/r/curseofmyrra/)
+- **Twitter:** [@CurseOfMirra](https://twitter.com/curseofmirra)
+- **Reddit:** [r/curseofmirra](https://www.reddit.com/r/curseofmirra/)
 - **Discord:** [join link](https://discord.gg/hxDRsbCpzC)
-- **Telegram:** [t.me/curseofmyrra](https://t.me/curseofmyrra)
+- **Telegram:** [t.me/curseofmirra](https://t.me/curseofmirra)
 
 Happy creating, and we can't wait to see the amazing worlds you build with these assets!
 
