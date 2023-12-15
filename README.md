@@ -1,6 +1,6 @@
 # Curse of Mirra - Assets repository
 
-<img src="Curse_of_Myrra_logo.png" alt="Curse of Myrra logo">
+<img src="Curse_of_Mirra_logo.jpg" alt="Curse of Mirra logo">
 
 ## Introduction
 
@@ -12,7 +12,7 @@ Welcome to the LambdaClass Assets Repository! We're thrilled to share with you a
 2. [License](#license)
 3. [How to Contribute](#how-to-contribute)
 4. [Asset Categories](#asset-categories)
-5. [Getting Started](#getting-started)
+5. [Getting Started](#getting-started)      
 6. [Credits](#credits)
 7. [Contact Us](#contact-us)
 
@@ -74,6 +74,7 @@ We would like to express our gratitude to the talented artists and contributors 
 If you have any questions, feedback, or just want to share your creations using our assets, feel free to reach out to us:
 
 - **Email:** gamedev@lambdaclass.com
+- **Website** [CurseofMirra.com](https://curseofmirra.com/)
 - **Twitter:** [@CurseOfMirra](https://twitter.com/curseofmirra)
 - **Reddit:** [r/curseofmirra](https://www.reddit.com/r/curseofmirra/)
 - **Discord:** [join link](https://discord.gg/hxDRsbCpzC)
